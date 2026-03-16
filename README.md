@@ -1,9 +1,11 @@
 # Olist E-commerce Data Pipeline & Analytics
 
-1. Descripción del Proyecto
+## 1. Descripción del Proyecto
+
  El proyecto implementa un pipeline de datos end-to-end utilizando el dataset público de Olist (e-commerce brasileño). Abarca desde la extracción y limpieza de datos crudos, pasando por el modelado dimensional en una base de datos relacional, hasta la visualización y respuesta a preguntas clave de negocio.
 
-2. Arquitectura y Fases del Proyecto
+## 2. Arquitectura y Fases del Proyecto
+   
     Fase 1: Análisis Exploratorio de Datos (EDA)
 
         -Diagnóstico inicial de calidad de datos.
@@ -38,7 +40,7 @@
 
         -Script principal diseñado para ejecutar el pipeline de carga con un solo comando, asegurando la reproducibilidad del entorno.
 
-3. Estructura del Repositorio
+## 3. Estructura del Repositorio
 
 ```text
 proyecto_olist/
@@ -56,7 +58,7 @@ proyecto_olist/
  -- README.md             # Documentación del proyecto
 ```
 
-4. Instrucciones de Reproducción
+## 4. Instrucciones de Reproducción
 
     Para evaluar este proyecto localmente, asegúrese de tener instalado Python 3.8 o superior y las librerías requeridas (pandas, matplotlib, seaborn).
 
@@ -73,7 +75,7 @@ proyecto_olist/
     - Paso 3: Visualizar los resultados de negocio
     Abra el archivo notebooks/visualización_y_dashboard.ipynb y ejecute todas las celdas para visualizar las consultas SQL y los gráficos que responden a las preguntas.
 
-5. Tecnologías Utilizadas
+## 5. Tecnologías Utilizadas
 
     - Lenguajes: Python, SQL
 
