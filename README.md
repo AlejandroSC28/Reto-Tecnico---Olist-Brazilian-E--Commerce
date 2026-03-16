@@ -40,7 +40,7 @@
 
 3. Estructura del Repositorio
 
-text**
+```text
 proyecto_olist/
  -- datos/
     -- db/       # Base de datos SQLite autogenerada (.db)
@@ -54,7 +54,7 @@ proyecto_olist/
     -- database_loader.py # Fase 3: Script de conexión y carga ETL
  -- main.py               # Fase 5: Orquestador del pipeline
  -- README.md             # Documentación del proyecto
-**
+```
 
 4. Instrucciones de Reproducción
 
