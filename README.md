@@ -70,7 +70,6 @@ Abra el archivo `notebooks/visualización_y_dashboard.ipynb` y ejecute todas las
 - Lenguajes: Python, SQL
 - Procesamiento de Datos: Pandas, Numpy
 - Base de Datos: SQLite (Elegida para garantizar la reproducibilidad sin configuración de servidores externos)
-
-    - Visualización: Matplotlib, Seaborn, Missingno
+- Visualización: Matplotlib, Seaborn, Missingno
 
     
